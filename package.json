@@ -7,7 +7,7 @@
     "start": "npm run start --prefix backend"
   },
   "keywords": [],
-  "author": "",
+  "author": "Mohak Devkota",
   "license": "ISC",
   "description": ""
 }
