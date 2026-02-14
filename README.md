@@ -60,5 +60,3 @@ Protected routes need: `Authorization: Bearer <token>`
 ## Author
 
 Mohak Devkota
-
-```
