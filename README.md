@@ -10,8 +10,8 @@ A secure full-stack note app built with **MERN** (MongoDB, Express, React, Node.
 
 ## Features
 - JWT Auth (Register/Login)  
-- CRUD Notes + Real-time Search  
-- Responsive UI (Mobile → Desktop)  
+- CRUD Notes 
+- Responsive UI
 - MongoDB Atlas Storage  
 
 ---
