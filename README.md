@@ -1,4 +1,3 @@
-
 # 🚀 NoteX
 ````markdown
 
@@ -62,8 +61,4 @@ Protected routes need: `Authorization: Bearer <token>`
 
 Mohak Devkota
 
-```
-
-
-If you want, I can **also add badges and a one-line tech stack summary** to make it look even more polished for your portfolio. Do you want me to do that?
 ```
